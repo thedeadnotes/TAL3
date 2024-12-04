@@ -9,9 +9,11 @@
     <lastBuildDate>Sun, 02 Dec 2024 10:00:00 GMT</lastBuildDate>
     <itunes:author>Masterclass</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Society & Culture">
-      <itunes:category text="Personal Journals" />
-    </itunes:category>
+    <itunes:category text="Society & Culture"/>
+<itunes:category text="Arts"/>
+<itunes:category text="News">
+<itunes:category text="Politics"/>
+</itunes:category>
     <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/41/Wac_nearside_3000.jpg" />
 
     <item>
