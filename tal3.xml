@@ -18,7 +18,7 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
-    <itunes:image href="https://www.yourpodcastwebsite.com/images/podcast-cover.jpg" />
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/41/Wac_nearside_3000.jpg" />
 
     <item>
       <title>Episode Title</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://www.yourpodcastwebsite.com/episodes/episode-title</guid>
       <enclosure url="https://audio.jukehost.co.uk/cymvLJO4yldYF3NVW4V5CbPJgpBh7OPh" length="12345678" type="audio/mpeg" />
       <itunes:duration>00:45:30</itunes:duration>
-      <itunes:image href="https://www.yourpodcastwebsite.com/images/episode-image.jpg" />
+      <itunes:image href="hhttps://i.redd.it/zrkwrcj7tbv31.jpg" />
     </item>
 
   </channel>
