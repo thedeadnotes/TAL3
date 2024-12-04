@@ -1,32 +1,35 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:base="https://thedeadnotes.github.io/tal2/TAL2.xml">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" 
+     xmlns:atom="http://www.w3.org/2005/Atom" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     version="2.0">
   <channel>
     <title>Your Podcast Title</title>
-    <link>https://www.google.com</link>
+    <link>https://www.yourpodcastwebsite.com</link>
     <description>A brief description of your podcast.</description>
     <language>en-us</language>
     <copyright>2024 Your Name or Company</copyright>
     <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Dec 2024 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 10:00:00 GMT</lastBuildDate>
+    <atom:link href="https://thedeadnotes.github.io/tal2/TAL2.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Masterclass</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Society &amp; Culture" />
-<itunes:category text="Arts"/>
-<itunes:category text="News">
-<itunes:category text="Politics"/>
-</itunes:category>
-    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/41/Wac_nearside_3000.jpg" />
+    <itunes:category text="Arts" />
+    <itunes:category text="News">
+      <itunes:category text="Politics" />
+    </itunes:category>
+    <itunes:image href="https://www.yourpodcastwebsite.com/images/podcast-cover.jpg" />
 
     <item>
       <title>Episode Title</title>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://www.google.com</link>
+      <link>https://www.yourpodcastwebsite.com/episodes/episode-title</link>
       <description>A brief summary of this episode.</description>
       <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.yourpodcastwebsite.com/episodes/episode-title</guid>
       <enclosure url="https://audio.jukehost.co.uk/cymvLJO4yldYF3NVW4V5CbPJgpBh7OPh" length="12345678" type="audio/mpeg" />
       <itunes:duration>00:45:30</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/41/Wac_nearside_3000.jpg" />
+      <itunes:image href="https://www.yourpodcastwebsite.com/images/episode-image.jpg" />
     </item>
 
   </channel>
