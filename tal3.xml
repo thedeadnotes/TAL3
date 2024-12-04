@@ -3,14 +3,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      version="2.0">
   <channel>
-    <title>Your Podcast Title</title>
-    <link>https://www.yourpodcastwebsite.com</link>
-    <description>A brief description of your podcast.</description>
+    <title>TAL Classic</title>
+    <link>https://www.thisamericanlife.org/</link>
+    <description>TAL Classic.</description>
     <language>en-us</language>
     <copyright>2024 Your Name or Company</copyright>
     <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
     <lastBuildDate>Tue, 03 Dec 2024 10:00:00 GMT</lastBuildDate>
-    <atom:link href="https://thedeadnotes.github.io/tal2/TAL2.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thedeadnotes.github.io/TAL3/tal3.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Masterclass</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Society &amp; Culture" />
@@ -18,18 +18,18 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
-    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/41/Wac_nearside_3000.jpg" />
+    <itunes:image href="https://www.thisamericanlife.org/sites/default/files/styles/large_portrait/public/episodes/images/1.jpg?itok=j0Dtaaut" />
 
     <item>
-      <title>Episode Title</title>
+      <title>New Beginnings</title>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://www.yourpodcastwebsite.com/episodes/episode-title</link>
-      <description>A brief summary of this episode.</description>
-      <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
+      <link>https://www.thisamericanlife.org/1/new-beginnings</link>
+      <description>Ira talks with Joe Franklin, host of the longest running talk show in television history, to get advice for his new radio show.</description>
+      <pubDate>Fri, 17 Nov 1995 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.yourpodcastwebsite.com/episodes/episode-title</guid>
-      <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/2c7f3db9-8155-4a67-92db-baa5d5646134/episodes/d857b81b-7e01-46fe-b3e6-bae952739582/audio/128/default.mp3?awCollectionId=2c7f3db9-8155-4a67-92db-baa5d5646134&amp;awEpisodeId=d857b81b-7e01-46fe-b3e6-bae952739582" length="12345678" type="audio/mpeg" />
-      <itunes:duration>00:45:30</itunes:duration>
-      <itunes:image href="hhttps://i.redd.it/zrkwrcj7tbv31.jpg" />
+      <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/1/f4vcq5NjNe6sLhpHCrnrYIwy4MDsnHERXNinV2Es-cg/1.mp3?src=episode-page" length="12345678" type="audio/mpeg" />
+      <itunes:duration>01:02:35</itunes:duration>
+      <itunes:image href="https://www.thisamericanlife.org/sites/default/files/styles/large_portrait/public/episodes/images/1.jpg?itok=j0Dtaaut" />
     </item>
 
   </channel>
