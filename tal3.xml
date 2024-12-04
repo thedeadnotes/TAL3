@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Your Podcast Title</title>
+    <link>https://www.yourpodcastwebsite.com</link>
+    <description>A brief description of your podcast.</description>
+    <language>en-us</language>
+    <copyright>2024 Your Name or Company</copyright>
+    <pubDate>Sun, 02 Dec 2024 10:00:00 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Dec 2024 10:00:00 GMT</lastBuildDate>
+    <itunes:author>Your Name</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Society & Culture">
+      <itunes:category text="Personal Journals" />
+    </itunes:category>
+    <itunes:image href="https://www.yourpodcastwebsite.com/images/podcast_image.jpg" />
+
+    <item>
+      <title>Episode Title</title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://www.yourpodcastwebsite.com/episodes/episode-title</link>
+      <description>A brief summary of this episode.</description>
+      <pubDate>Sun, 02 Dec 2024 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.yourpodcastwebsite.com/episodes/episode-title</guid>
+      <enclosure url="https://www.yourpodcastwebsite.com/episodes/episode-file.mp3" length="12345678" type="audio/mpeg" />
+      <itunes:duration>00:45:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://www.yourpodcastwebsite.com/images/episode-image.jpg" />
+    </item>
+
+  </channel>
+</rss>
