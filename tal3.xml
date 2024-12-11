@@ -3,33 +3,34 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      version="2.0">
   <channel>
-    <title>TAL Classic</title>
-    <link>https://www.thisamericanlife.org/</link>
-    <description>TAL Classic.</description>
+    <title>Radiolab Classic</title>
+    <link>https://radiolab.org/podcast</link>
+    <description>Radiolab Classic Description</description>
     <language>en-us</language>
-    <copyright>2024 Your Name or Company</copyright>
-    <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Dec 2024 10:00:00 GMT</lastBuildDate>
+    <copyright>2024 nomame</copyright>
+    <pubDate>Wed, 11 Dec 2024 10:00:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 10:00:00 GMT</lastBuildDate>
     <atom:link href="https://thedeadnotes.github.io/TAL3/tal3.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>Masterclass</itunes:author>
+    <itunes:author>WYNC - Unofficial</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Arts" />
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
-    <itunes:image href="https://www.thisamericanlife.org/sites/default/files/styles/large_portrait/public/episodes/images/1.jpg?itok=j0Dtaaut" />
+    <itunes:image href="https://npr.brightspotcdn.com/dims4/default/e8f7045/2147483647/strip/true/crop/750x750+125+0/resize/560x560!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F78%2Fc04e0af84a9dae39e05eb9a7bb7e%2Fradiolab-logo.jpeg" />
 
     <item>
-      <title>New Beginnings</title>
+      <title>Time</title>
       <itunes:episodeType>full</itunes:episodeType>
-      <link>https://www.thisamericanlife.org/1/new-beginnings</link>
-      <description>Ira talks with Joe Franklin, host of the longest running talk show in television history, to get advice for his new radio show.</description>
-      <pubDate>Fri, 17 Nov 1995 10:00:00 GMT</pubDate>
+      <link>https://radiolab.org/podcast/91584-time</link>
+      <description>Jorge Luis Borges wrote, "Time is the substance from which I am made. Time is a river which carries me along, but I am the river; it is a tiger that devours me, but I am the tiger; it is a fire that consumes me, but I am the fire." And it’s still as close a definition as we have. This hour of Radiolab, we try our hand at unlocking the mysteries of time. We stretch and bend it, wrestle with its subjective nature, and wrap our minds around strategies to standardize it...stopping along the way at a 19th-century railroad station in Ohio, a track meet, and a Beethoven concert.
+      </description>
+      <pubDate>Tue, 24 Aug 2010 10:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.yourpodcastwebsite.com/episodes/episode-title</guid>
-      <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/www.thisamericanlife.org/sites/default/files/audio/1/f4vcq5NjNe6sLhpHCrnrYIwy4MDsnHERXNinV2Es-cg/1.mp3?src=episode-page" length="12345678" type="audio/mpeg" />
-      <itunes:duration>01:02:35</itunes:duration>
-      <itunes:image href="https://www.thisamericanlife.org/sites/default/files/styles/large_portrait/public/episodes/images/1.jpg?itok=j0Dtaaut" />
+      <enclosure url="https://waaa.wnyc.org/8e013473-7041-4585-857c-16eddf8daa22/episodes/ee27a38e-b9a2-4a5e-9262-5cf50fff518d/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_6365a41b8896e4e7f58b9932b12a4779_55758644.mp3?aid=rss_feed&awCollectionId=8e013473-7041-4585-857c-16eddf8daa22&awEpisodeId=ee27a38e-b9a2-4a5e-9262-5cf50fff518d&feed=qFmtQAxj&hash_redirect=1&x-total-bytes=55758644&x-ais-classified=streaming&listeningSessionID=0CD_382_345__0c4e3148c55b91c8d1b68d675e7b002ec5788156" length="12345678" type="audio/mpeg" />
+      <itunes:duration>00:58:02</itunes:duration>
+      <itunes:image href="https://npr.brightspotcdn.com/dims4/default/e8f7045/2147483647/strip/true/crop/750x750+125+0/resize/560x560!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F78%2Fc04e0af84a9dae39e05eb9a7bb7e%2Fradiolab-logo.jpeg" />
     </item>
 
   </channel>
